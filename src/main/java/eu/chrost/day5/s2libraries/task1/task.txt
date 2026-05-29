@@ -1,0 +1,5 @@
+1. Utworz klase / rekord Car z polami String brand, String model, int year.
+2. Utworz obiekt klasy Car
+3. Zserializuj obiekt klasy Car do formatu JSON za pomoca biblioteki Gson.
+4. Zdeserializuj obiekt klasy Car z formatu JSON za pomoca biblioteki Gson.
+5. Porownaj czy zdeserializowany obiekt jest rowny oryginalnemu obiektowi i wypisz odpowiedni komunikat.
