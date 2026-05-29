@@ -1,0 +1,8 @@
+Zadanie 2: Operacje na tablicy
+1. Stwórz program, który:
+o Tworzy tablicę int[] o długości 5.
+o Pobiera od użytkownika indeks oraz wartość do wpisania w tablicy.
+o Obsługuje wyjątki:
+▪ ArrayIndexOutOfBoundsException (jeśli podano błędny indeks),
+▪ NumberFormatException (jeśli wpisano tekst zamiast liczby).
+2. Dodaj klauzulę finally, która wypisuje zawartość tablicy po zakończeniu działania programu.
